@@ -1,0 +1,529 @@
+body{
+	background: #f2f4f4;
+}
+.glav{
+	width: 80%;
+}
+.glav1{
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 80%;
+}
+
+#header{
+	width: 100%;
+	background: white;
+
+}
+.meny{
+	background: white;
+	border-color: white;
+}
+.meny p{
+	font-size: 15px;
+	text-align: center;
+}
+.meny p:hover{
+	color: black;
+}
+.meny1 li{
+	font-weight: bold;
+	font-size: 14px;
+	padding-top: 15px;
+	padding-right: 10px;
+
+}
+.meny1{
+	padding-left: 30px;
+}
+.meny1 a:hover{
+	color:black !important;
+}
+.head-line{
+	padding-top: 10px;
+}
+
+.head-line li{
+	display: inline-block;
+}
+.head-line li:nth-child(1n+5){
+	padding-left: 6px;
+	float: right;
+}
+
+.li{
+	padding-left: 4px;
+	float: right;
+}
+
+.li-img{
+	float: right;
+	padding-left: 4px;
+}
+.head-line p{
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-bottom: 0px;
+}
+.head-line img{
+	width: 15px;
+}
+.head-first p{
+	color: #696969;
+	text-align: center;
+}
+.head-first li{
+	display: inline-block;
+
+}
+.head-second{
+	padding-right: 20px;
+	
+}
+.head-second li{
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-left: 20px;
+	display: inline-block;
+}
+.head-second a{
+	color: #696969;
+	font-size: 17px;
+	font-family: 'Tajawal', sans-serif;
+}
+.head-second a:hover{
+	color: #FF4500;
+	text-decoration: none;
+}
+.head-third{
+	float: right;
+
+	
+}
+.head-third li{
+	padding-top: 10px;
+	padding-left:17px;
+	display: inline-block;
+	
+}
+
+#centre{
+	padding-top: 100px;
+}
+.menu-ul{
+	padding-left: 25px;
+}
+.menu-ul li{
+	display: block;
+	
+	font-size: 16px;
+	font-weight: 600;
+	color:  #696969;
+	padding-bottom: 20px;
+}
+.menu-ul-2 li{
+	display: block;
+}
+.menu-ul-3 li{
+	display: block;
+	font-family: 'Tajawal', sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+	color:  #696969;
+	padding-bottom: 15px;
+
+}
+.menu-ul-3 p{
+	display: inline-block;
+	font-family: 'Tajawal', sans-serif;
+}
+.menu-ul-4	li{
+	display: block;
+	font-family: 'Tajawal', sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+	color:  #696969;
+	padding-bottom: 15px;
+}
+.menu-ul-4 p{
+	display: inline-block;
+	font-family: 'Tajawal', sans-serif;
+}
+.menu-vn{
+
+	background: white;
+}
+
+
+.menu-1{
+
+}
+.menu-1 li{
+	display: block;
+	padding-bottom: 25px;
+	font-family: 'Tajawal', sans-serif;
+	font-size: 15px;
+	font-weight: 600;
+
+}
+h4{
+	margin-top: 0px;
+	padding-top: 20px;
+	padding-left: 23px;
+	padding-bottom: 24px;
+	color: #FF8C00;
+	font-weight: 900;
+}
+.meny2{
+	padding-left: 0px;
+}
+.meny2 li{
+	display: inline-block;
+	padding-top: 20px;
+	padding-right: 15px;
+	padding-left: 10px;
+}
+.vubor{
+	padding-bottom: 20px;
+	
+	
+}
+.vubor-1{
+
+	padding-left: 18px ;
+	padding-right: 18px;
+	background: white;
+}
+.vubor-1 img{
+	display: block;
+	margin: 0 auto;
+	z-index: 1;
+	position: relative;
+	height: 230px;
+	width: 180px;
+}
+
+.vubor-1 p{
+	margin-bottom: 0px;
+	padding-top:10px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-family: 'Tajawal', sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+}
+.price{
+	color: #FF8C00;
+}
+.menu-2 li{
+	display: inline-block;
+
+}
+.menu-2 p{
+	display: inline-block;
+}
+.menu-2 input{
+	border: 1px solid  #DCDCDC;
+	background: #DCDCDC;
+	width: 50px;
+}
+.menu-3 li{
+	display: block;
+	padding-left: 23px;
+}
+.menu-3 p{
+	display: inline-block;
+	padding-left: 7px;
+	padding-bottom: 10px;
+	font-family: 'Tajawal', sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+}
+.menu-vn img{
+	display: block;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin: 0 auto;
+	width: 35px;
+	
+}
+.niz{
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+.centre-niz{
+	background: white;
+}
+.centre-niz ul{
+	padding-left: 0px;
+	margin: 0px;
+}
+.centre-niz li{
+	display: inline-block;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.centre-niz p{
+	font-family: 'Tajawal', sans-serif;
+	font-size: 13px;
+	margin: 0 auto;
+	display: inline-block;
+}
+.centre-niz h5{
+	color: #FF8C00;
+	font-weight: 600;
+	font-family: 'Tajawal', sans-serif;
+	margin: 0 auto;
+	font-size: 16px;
+}
+.first-li{
+	padding-left: 30px;
+}
+.second-li{
+	padding-left: 30px;
+}
+.second-li p{
+	font-style: italic;
+	color: #696969;
+	font-weight: bold;
+}
+.third-li{
+	color: #696969;
+	padding-left: 150px;
+}
+.four-li{
+	padding-left: 100px;	
+}
+.form-name{
+	font-weight: normal;s
+	font-family: 'century gothic';
+	color: #808080;
+	font-size: 14px;
+}
+.form label{
+	width: 25%;
+
+}
+.form h4{
+	display: block;	
+	text-align: center;
+}
+.form input{
+	margin-bottom: 10px;
+	padding: 5px;
+	border: 1px solid #DCDCDC;
+    border-radius: 6px;
+}
+.button-gl{
+	border-radius: 0px;
+	color: white;
+	background: #FF8C00;
+}
+.button-2{
+	
+	color: white;
+	background: #008B8B;
+}
+.button-3{
+	color: white;
+	background: #A52A2A;
+}
+.button-foot{
+	padding-top: 30px;
+	text-align: right;
+}
+#footer{
+
+	width: 100%;
+	background: white;
+}
+.footer-first{
+	float: left;
+	display: inline-block;
+	padding-right: 50px;
+}
+.footer{
+	float: left;
+	display: inline-block;
+
+}
+.footer a{
+	font-size: 12px;
+	color: black;
+	text-decoration: none;
+	
+}
+.footer p{
+	margin: 0px auto;
+}
+.footer-1{
+	
+	display:inline-block;
+}
+
+.foot-all{
+	
+}
+.footer-first p{
+	padding-left: 5px;
+	color: #696969;
+	font-size: 12px;
+}
+.foot-text{
+	
+	font-weight: bold;
+	color: #2F4F4F !important;
+}
+.footer-1 h5{
+	color: #FF8C00;
+	font-weight: bold;
+}
+.fot-all{
+	margin-top: 30px;
+}
+.myfirst{
+	background: url(kyrt2.png);
+	width: 170px;
+	height: 180px;
+
+}
+.myfirst:hover{
+	background: url(kyrt1.png) no-repeat;
+
+}
+
+.menu-gl{
+	border: 0px;
+	border-color: white !important; 
+}
+
+
+.answer_box {
+  padding-left: 15px;
+  position: relative;
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 32px;
+  
+}
+.answer_box input,
+.answer_box label {
+  cursor: pointer;
+}
+.answer_box input[type="checkbox"]{
+  display: none;
+}
+.answer_box:after {
+  content: '';
+  position: absolute;
+  left: -14px;
+  top: 6px;
+  display: block;
+  width: 23px;
+  height: 20px;
+  box-sizing: border-box;
+  background: url(http://denis-creative.com/wp-content/uploads/2016/11/check.png) 0 -20px no-repeat;
+  border-radius: 4px;
+}
+.answer_box.checked:after{
+  background: url(http://denis-creative.com/wp-content/uploads/2016/11/check.png) 0 0px no-repeat;
+}
+.trit{
+	float: right;
+
+}
+
+@media only screen and (min-device-width: 320px) {
+	
+	.meny1 li{
+		
+		font-size: 22px !important;
+
+
+	}
+	.meny1{
+		display: none !important;
+		clear: both;
+		width: 200px;
+		padding-left: 0px !important;
+	}
+	.meny1 a{
+		color: #e0db12 !important;
+	}
+	.head-third{
+		float: left;
+	}
+	.my-toggle{
+
+		display: block !important;
+
+	}
+	.my-toggle:focus, .meny1 {
+
+		display: block !important;
+		
+	}
+	
+}
+
+
+
+@media only screen and (min-device-width: 768px){
+	.meny1{
+		display: block;
+		clear: none;
+		width: 69%;
+	}
+	.meny1 li{
+		display: block !important;
+		font-size: 15px !important;
+
+	}
+	.meny1 a{
+		color: #a9b0a9 !important;
+	}
+	.my-toggle{
+
+		display: none !important
+
+	}
+	
+
+}
+
+@media  only screen and (min-device-width: 992px){
+	.meny1{
+		display: block;
+		clear: none;
+		width: 69%;
+	}
+	.meny1 li{
+		font-size: 15px !important;
+
+	}
+	.meny1 a{
+		color: #a9b0a9 !important;
+	}
+	.my-toggle{
+
+		display: none !important ;
+
+	}
+	
+}
+
+@media  only screen and (min-device-width: 1200px){
+	.meny1 li{
+		font-size: 20px !important;
+
+	}
+	.meny1{
+		clear: none;
+		width: 71%;
+	}
+	.meny1 a{
+		color: #a9b0a9 !important;
+	}
+	
+}
+
