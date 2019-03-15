@@ -382,13 +382,13 @@ h4{
 	margin-top: 30px;
 }
 .myfirst{
-	background: url(kyrt2.png);
+	background: url(Kyrt2.png);
 	width: 170px;
 	height: 180px;
 
 }
 .myfirst:hover{
-	background: url(kyrt1.png) no-repeat;
+	background: url(Kyrt1.png) no-repeat;
 
 }
 
